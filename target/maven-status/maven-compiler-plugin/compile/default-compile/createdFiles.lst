@@ -1,0 +1,13 @@
+br\com\marcelphilippe\JAXRSConfiguration.class
+br\com\marcelphilippe\timer\AgendamentoEmailTimer.class
+br\com\marcelphilippe\exception\BusinessException.class
+br\com\marcelphilippe\interceptor\Logger.class
+br\com\marcelphilippe\business\AgendamentoEmailBusiness.class
+br\com\marcelphilippe\BusinessExceptionMapper.class
+br\com\marcelphilippe\dao\AgendamentoEmailDao.class
+br\com\marcelphilippe\dto\MensagemErroDto.class
+br\com\marcelphilippe\ConstraintExceptionMapper.class
+br\com\marcelphilippe\interceptor\LoggerInterceptor.class
+br\com\marcelphilippe\mdb\EmailMDB.class
+br\com\marcelphilippe\entity\AgendamentoEmail.class
+br\com\marcelphilippe\resources\AgendamentoEmailResource.class
