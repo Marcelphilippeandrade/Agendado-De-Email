@@ -8,6 +8,7 @@ Construir um agendador de e-mail responsável pelo envio de e-mails de qualquer 
 * Java (Versão 8); 
 * Maven;
 * Wildfly;
+* Vue js;
 * Mysql;
 * JPA;
 * Git; 
